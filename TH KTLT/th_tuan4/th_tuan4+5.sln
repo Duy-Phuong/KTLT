@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "baitap", "baitap\baitap.vcxproj", "{F63E2B07-50D3-4BBB-9F78-5D26CE15BC5C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bai2", "bai2\bai2.vcxproj", "{F821860E-4E27-4C28-B611-25A928E0CCEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F63E2B07-50D3-4BBB-9F78-5D26CE15BC5C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F63E2B07-50D3-4BBB-9F78-5D26CE15BC5C}.Debug|Win32.Build.0 = Debug|Win32
+		{F63E2B07-50D3-4BBB-9F78-5D26CE15BC5C}.Release|Win32.ActiveCfg = Release|Win32
+		{F63E2B07-50D3-4BBB-9F78-5D26CE15BC5C}.Release|Win32.Build.0 = Release|Win32
+		{F821860E-4E27-4C28-B611-25A928E0CCEF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F821860E-4E27-4C28-B611-25A928E0CCEF}.Debug|Win32.Build.0 = Debug|Win32
+		{F821860E-4E27-4C28-B611-25A928E0CCEF}.Release|Win32.ActiveCfg = Release|Win32
+		{F821860E-4E27-4C28-B611-25A928E0CCEF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

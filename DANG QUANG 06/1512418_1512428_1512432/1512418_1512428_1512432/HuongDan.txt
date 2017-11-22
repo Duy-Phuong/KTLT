@@ -1,0 +1,13 @@
+copy file danh sach sinh vien cua ban vao thu muc setting cua chuong trinh.
+sau khi chay file exe, mo file DSSVTam.html bang notepad,copy toan bo thong tin,
+ -> mo file BangDiem.html bang notepad sau do paste toan bo noi dung vua copy vao duoi phan 
+		<tr>
+			<th align = "center"> <b> MSSV </b> </th>
+			<th align = "center"> <b> Ho va ten lot </b> </th>
+			<th align = "center"> <b> Ten </b> </th>
+			<th align = "center"> <b> Ngay Sinh </b> </th>
+			<th align = "center"> <b> Gioi Tinh </b> </th>
+			<th align = "center"> <b> DTB </b> </th>
+			<th align = "center"> <b> Chi Tiet </b> </th><br>
+		</tr>
+-> SAVE.
